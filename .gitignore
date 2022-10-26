@@ -5,7 +5,6 @@
 
 *.swp
 appsettings.json
-*.csproj
 omnisharp.json
 .DS_Store
 .vscode/
