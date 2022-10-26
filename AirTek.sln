@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirTek", "AirTek\AirTek.csproj", "{E03647F7-6CEA-4636-9E8A-00636BEB9CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03647F7-6CEA-4636-9E8A-00636BEB9CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03647F7-6CEA-4636-9E8A-00636BEB9CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03647F7-6CEA-4636-9E8A-00636BEB9CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03647F7-6CEA-4636-9E8A-00636BEB9CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A98EE017-4862-4F33-BC8A-ECEE258D7182}
+	EndGlobalSection
+EndGlobal
